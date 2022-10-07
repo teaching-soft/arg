@@ -1,1 +1,3 @@
-Semplice programma di esempio che usa gli argomenti sulla linea di comando
+Semplice esempio di gestione dei parametri da linea di comando
+Compilare con gcc main.c -o arg
+Eseguire con ./arg xxx yyy
